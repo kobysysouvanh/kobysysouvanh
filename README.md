@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently enrolled at Kennesaw State University in pursuit of a bachelor in computer science and minoring in software engineering
+BS in Computer Science and minor in Software Engineering at Kennesaw State University
 
 
 ## 🌐 Socials:
